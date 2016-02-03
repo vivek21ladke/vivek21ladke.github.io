@@ -138,7 +138,7 @@
 		regionalOptions: { // Available regional settings, indexed by language/country code
 			'': { // Default regional settings - English/US
 		labels: ['Years', 'Months', 'Weeks', 'दिवस', 'तास', 'मिनिटे', 'सेकंद'],
-		labels1: ['Year', 'Month', 'Week', 'Day', 'Hour', 'Minute', 'Second'],
+		labels1: ['Year', 'Month', 'Week', 'Day', 'तास', 'मिनिटे', 'सेकंद'],
 				compactLabels: ['y', 'm', 'w', 'd'],
 				whichLabels: null,
 				digits: ['०', '१', '२', '३', '४', '५', '६', '७', '८', '९'],
